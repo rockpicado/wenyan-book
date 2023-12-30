@@ -31,7 +31,7 @@
 
 -->
 
-## 목차 Table of Contents
+## 목차 目次
 
 - [명의제일](01%20明義第一.md)
 - [변수제이](02%20變數第二.md)
@@ -48,9 +48,9 @@
 - [홍략제십삼](13%20宏略第十三.md)
 
 
-## 다른 언어
+## 다른 언어 / 其他言語
 
-- [중세 중국어 원문](https://github.com/wenyan/book)
+- [중세 중국어 원문](https://github.com/wenyan-lang/book)
 - [중세 일본어](https://gitlab.com/yheuhtozr/book-ja-kanbun)
 
 <!--
